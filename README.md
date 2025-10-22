@@ -7,4 +7,5 @@ The original usage of the program was for the following Master Thesis:
 "Optimized Planning of Battery Storage Systems for Wind and Photovoltaic Power Plants in Germany by Development of a Simulation Program" written in 2024/2025 and hopefully published soon by HAW Hamburg LS.
 I will send the link here when it is published.
 Read parts of the Master Thesis for programm usage, possible results and program processes.
+There is a seperate READ_ME file for program installation in German language when downloading the project.
 Feel free to improve the code!
