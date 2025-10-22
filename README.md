@@ -9,6 +9,6 @@ I will send the link here when it is published.
 Read parts of the Master Thesis for programm usage, possible results and program processes.
 There is a seperate READ_ME file for program installation in German language when downloading the project.
 
-***Klick now on the realease version to download the usable program file as .ZIP inclusive all data needed!***
+***Klick now on the release version on the right side to download the usable program file as .ZIP inclusive all data needed!***
 
 Feel free to improve the code!
