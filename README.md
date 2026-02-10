@@ -4,8 +4,8 @@ The original usages focused on Germany but it is worldwide usable.
 The simulation data is stored in Excel files and is easy to modify. 
 The data implemented is only default data. Especially the market files need to be changed in case of detailed results.
 The original usage of the program was for the following Master Thesis: 
-"Optimized Planning of Battery Storage Systems for Wind and Photovoltaic Power Plants in Germany by Development of a Simulation Program" written in 2024/2025 and hopefully published soon by HAW Hamburg LS.
-I will send the link here when it is published.
+"Optimized Planning of Battery Storage Systems for Wind and Photovoltaic Power Plants in Germany by Development of a Simulation Program" written in 2024/2025 and can be accessed here:
+https://reposit.haw-hamburg.de/handle/20.500.12738/18397
 Read parts of the Master Thesis for programm usage, possible results and program processes.
 There is a seperate READ_ME file for program installation in German language when downloading the project.
 
